@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('angular9-global-handle-error app is running!');
+    expect(page.getTitleText()).toEqual('angular-ngrx-example app is running!');
   });
 
   afterEach(async () => {

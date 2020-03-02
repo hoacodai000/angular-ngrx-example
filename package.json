@@ -1,5 +1,5 @@
 {
-  "name": "angular9-global-handle-error",
+  "name": "angular-ngrx-example",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
